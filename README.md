@@ -1,6 +1,6 @@
 # Faker::Precure
 
-TODO: Write a gem description
+Test data generator using precure
 
 ## Installation
 
@@ -22,7 +22,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/faker-precure/fork )
+1. Fork it ( https://github.com/sue445/faker-precure/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

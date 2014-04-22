@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Faker::Precure::VERSION
   spec.authors       = ["sue445"]
   spec.email         = ["sue445@sue445.net"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.summary       = %q{Test data generator using precure}
+  spec.description   = %q{Test data generator using precure}
+  spec.homepage      = "https://github.com/sue445/faker-precure"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
