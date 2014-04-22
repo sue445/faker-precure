@@ -1,4 +1,4 @@
-# Faker::Precure [![Gem Version](https://badge.fury.io/rb/faker-precure.svg)](http://badge.fury.io/rb/faker-precure) [![Build Status](https://travis-ci.org/sue445/faker-precure.svg?branch=master)](https://travis-ci.org/sue445/faker-precure) [![Code Climate](https://codeclimate.com/github/sue445/faker-precure.png)](https://codeclimate.com/github/sue445/faker-precure)
+# Faker::Precure [![Gem Version](https://badge.fury.io/rb/faker-precure.svg)](http://badge.fury.io/rb/faker-precure) [![Build Status](https://travis-ci.org/sue445/faker-precure.svg?branch=master)](https://travis-ci.org/sue445/faker-precure) [![Code Climate](https://codeclimate.com/github/sue445/faker-precure.png)](https://codeclimate.com/github/sue445/faker-precure) [![Coverage Status](https://coveralls.io/repos/sue445/faker-precure/badge.png)](https://coveralls.io/r/sue445/faker-precure)
 
 Test data generator using precure
 
