@@ -1,4 +1,4 @@
-# Faker::Precure [![Build Status](https://travis-ci.org/sue445/faker-precure.svg?branch=master)](https://travis-ci.org/sue445/faker-precure)
+# Faker::Precure [![Gem Version](https://badge.fury.io/rb/faker-precure.svg)](http://badge.fury.io/rb/faker-precure) [![Build Status](https://travis-ci.org/sue445/faker-precure.svg?branch=master)](https://travis-ci.org/sue445/faker-precure)
 
 Test data generator using precure
 
