@@ -18,7 +18,33 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+require "faker/precure"
+
+Faker::Precure.human_name
+#=> "黄瀬やよい"
+
+Faker::Precure.precure_name
+#=> "キュアアクア"
+
+Faker::Precure.title
+#=> "Yes！ プリキュア5"
+
+Faker::Precure.transform_message
+#=> "レッツプレイ！プリキュアモジュレーション！！\n爪弾くは女神の調べ！ キュアミューズ！\n届け4人の組曲！スイートプリキュア！"
+
+Faker::Precure.user_name
+#=> "cure_mint"
+```
+
+## Example of factory
+```ruby
+FactoryGirl.define do
+  factory :user do
+    name { Faker::Precure.human_name }
+  end
+end
+```
 
 ## Contributing
 
