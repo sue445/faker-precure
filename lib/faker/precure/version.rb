@@ -1,0 +1,5 @@
+module Faker
+  module Precure
+    VERSION = "0.0.1"
+  end
+end
