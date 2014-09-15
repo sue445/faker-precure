@@ -46,6 +46,18 @@ FactoryGirl.define do
 end
 ```
 
+## Changelog
+### master
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.2...master)
+
+### v0.0.2
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.1...v0.0.2)
+
+* Update dependency gem versions
+
+### v0.0.1
+* first release
+
 ## Contributing
 
 1. Fork it ( https://github.com/sue445/faker-precure/fork )
