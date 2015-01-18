@@ -32,6 +32,9 @@ Faker::Precure.human_name
 Faker::Precure.precure_name
 #=> "キュアアクア"
 
+Faker::Precure.cast_name
+#=> "豊口めぐみ"
+
 Faker::Precure.title
 #=> "Yes！ プリキュア5"
 
