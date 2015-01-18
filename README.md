@@ -32,6 +32,9 @@ Faker::Precure.human_name
 Faker::Precure.precure_name
 #=> "キュアアクア"
 
+Faker::Precure.cast_name
+#=> "豊口めぐみ"
+
 Faker::Precure.title
 #=> "Yes！ プリキュア5"
 
@@ -54,6 +57,9 @@ end
 ## Changelog
 ### master
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.2...master)
+
+* Impl Faker::Precure#cast_name
+  * https://github.com/sue445/faker-precure/pull/3
 
 ### v0.0.2
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.1...v0.0.2)
