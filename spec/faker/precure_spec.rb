@@ -48,4 +48,13 @@ describe Faker::Precure do
     it{ should_not be_blank }
     it{ should be_an_element_of all_titles }
   end
+
+  describe "#cast_name" do
+    subject{ Faker::Precure.cast_name }
+
+    let(:all_cast_names){ ::Precure.all_stars.map(&:cast_name) }
+
+    it{ should_not be_blank }
+    it{ should be_an_element_of all_cast_names }
+  end
 end

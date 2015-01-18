@@ -20,6 +20,11 @@ module Faker
     end
 
     # @return [String]
+    def self.cast_name
+      sample_girl.cast_name
+    end
+
+    # @return [String]
     def self.user_name
       ::Rubicure::Girl.uniq_names.sample.to_s
     end
