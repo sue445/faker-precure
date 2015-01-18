@@ -4,6 +4,9 @@ rvm:
 - 2.1
 - 2.2
 - ruby-head
+bundler_args: "--jobs=2"
+before_script:
+- export COVERAGE=true
 script: bundle exec rspec
 branches:
   only:
