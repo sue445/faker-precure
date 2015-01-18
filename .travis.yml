@@ -1,7 +1,9 @@
 language: ruby
 rvm:
-- 2.0.0
-- 2.1.2
+- 2.0
+- 2.1
+- 2.2
+- ruby-head
 script: bundle exec rspec
 branches:
   only:
@@ -10,3 +12,6 @@ notifications:
   email: false
   slack:
     secure: HKvrZjP1KUWhyNMA/3TfIe7vGXARu0gZFnntYPpIGm0N3Y8o3IHBc0Z0cY6N/VpFLinA95mfG8fk6SWUyqqlIfJiEQ7eIMj6kkOqWL+ro7BDMmi+pVSlE+Q2RmroY8pBKhFC7RsVW0JEjJ2OU4GqrVlxTncMNsfKNDCU3BXpWAU=
+matrix:
+  allow_failures:
+  - rvm: ruby-head
