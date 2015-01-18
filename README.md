@@ -56,7 +56,10 @@ end
 
 ## Changelog
 ### master
-[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.2...master)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.3...master)
+
+### v0.0.3
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.2...v0.0.3)
 
 * Impl Faker::Precure#cast_name
   * https://github.com/sue445/faker-precure/pull/3
