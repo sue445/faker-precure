@@ -36,7 +36,7 @@ module Faker
 
     private
       def self.sample_girl
-        ::Precure.all_stars.sample
+        ::Precure.all.sample
       end
 
       def self.sample_series
