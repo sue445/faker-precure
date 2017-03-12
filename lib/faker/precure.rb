@@ -16,7 +16,7 @@ module Faker
 
     # @return [String]
     def self.transform_message
-      ::Precure.all_stars.map(&:transform_message).compact.sample
+      ::Precure.all.map(&:transform_message).compact.sample
     end
 
     # @return [String]
@@ -36,7 +36,7 @@ module Faker
 
     private
       def self.sample_girl
-        ::Precure.all_stars.sample
+        ::Precure.all.sample
       end
 
       def self.sample_series
