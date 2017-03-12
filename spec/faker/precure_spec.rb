@@ -6,7 +6,7 @@ describe Faker::Precure do
   describe ".human_name" do
     subject{ Faker::Precure.human_name }
 
-    let(:all_human_names){ ::Precure.all_stars.map(&:human_name) }
+    let(:all_human_names){ ::Precure.all.map(&:human_name) }
 
     it{ should_not be_blank }
     it{ should be_an_element_of all_human_names }
@@ -15,7 +15,7 @@ describe Faker::Precure do
   describe ".precure_name" do
     subject{ Faker::Precure.precure_name }
 
-    let(:all_precure_names){ ::Precure.all_stars.map(&:precure_name) }
+    let(:all_precure_names){ ::Precure.all.map(&:precure_name) }
 
     it{ should_not be_blank }
     it{ should be_an_element_of all_precure_names }
@@ -24,7 +24,7 @@ describe Faker::Precure do
   describe ".transform_message" do
     subject{ Faker::Precure.transform_message }
 
-    let(:all_transform_messages){ ::Precure.all_stars.map(&:transform_message) }
+    let(:all_transform_messages){ ::Precure.all.map(&:transform_message) }
 
     it{ should_not be_blank }
     it{ should be_an_element_of all_transform_messages }
@@ -52,7 +52,7 @@ describe Faker::Precure do
   describe ".cast_name" do
     subject{ Faker::Precure.cast_name }
 
-    let(:all_cast_names){ ::Precure.all_stars.map(&:cast_name) }
+    let(:all_cast_names){ ::Precure.all.map(&:cast_name) }
 
     it{ should_not be_blank }
     it{ should be_an_element_of all_cast_names }
