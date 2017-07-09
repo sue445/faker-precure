@@ -40,7 +40,7 @@ module Faker
       end
 
       def self.sample_series
-        ::Rubicure.core.to_a.sample
+        ::Precure.to_a.sample
       end
   end
 end
