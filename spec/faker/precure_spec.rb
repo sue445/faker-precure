@@ -43,7 +43,7 @@ describe Faker::Precure do
   describe ".title" do
     subject{ Faker::Precure.title }
 
-    let(:all_titles){ ::Rubicure.core.map(&:title) }
+    let(:all_titles){ ::Precure.to_a.map(&:title) }
 
     it{ should_not be_blank }
     it{ should be_an_element_of all_titles }
