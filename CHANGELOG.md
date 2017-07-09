@@ -1,6 +1,13 @@
 # Changelog
 ## master
-[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.4...master)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.5...master)
+
+## v0.0.5
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.4...v0.0.5)
+
+* Fixed: Doesn't run with rubicure v1.0.5+
+  * https://github.com/sue445/faker-precure/issues/9
+  * https://github.com/sue445/faker-precure/pull/10
 
 ## v0.0.4
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.3...v0.0.4)
