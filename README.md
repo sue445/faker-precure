@@ -5,7 +5,6 @@ Test data generator using Precure(Pretty Cure)
 [![Build Status](https://travis-ci.org/sue445/faker-precure.svg?branch=master)](https://travis-ci.org/sue445/faker-precure)
 [![Code Climate](https://codeclimate.com/github/sue445/faker-precure.png)](https://codeclimate.com/github/sue445/faker-precure)
 [![Coverage Status](https://coveralls.io/repos/sue445/faker-precure/badge.png)](https://coveralls.io/r/sue445/faker-precure)
-[![Dependency Status](https://gemnasium.com/sue445/faker-precure.svg)](https://gemnasium.com/sue445/faker-precure)
 
 ## Installation
 
