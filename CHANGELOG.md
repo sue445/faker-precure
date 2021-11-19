@@ -1,6 +1,12 @@
 # Changelog
 ## master
-[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.5...master)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.6...master)
+
+## v0.0.6
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.5...v0.0.6)
+
+* Enable MFA requirement for gem releasing
+  * https://github.com/sue445/faker-precure/pull/28
 
 ## v0.0.5
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.4...v0.0.5)
