@@ -30,5 +30,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency "rspec"
   spec.add_development_dependency "yard"
-  spec.add_development_dependency "coveralls"
+  spec.add_development_dependency "coveralls_reborn"
 end
