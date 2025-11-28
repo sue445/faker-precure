@@ -1,6 +1,9 @@
 # Changelog
 ## master
-[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.6...master)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.7...master)
+
+## [0.0.7](https://github.com/sue445/faker-precure/releases/tag/v0.0.7)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.6...v0.0.7)
 
 ## v0.0.6
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.5...v0.0.6)
