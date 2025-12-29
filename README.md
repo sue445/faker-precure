@@ -3,7 +3,7 @@ Test data generator using Precure(Pretty Cure)
 
 [![Gem Version](https://badge.fury.io/rb/faker-precure.svg)](http://badge.fury.io/rb/faker-precure)
 [![test](https://github.com/sue445/faker-precure/actions/workflows/test.yml/badge.svg)](https://github.com/sue445/faker-precure/actions/workflows/test.yml)
-[![Code Climate](https://codeclimate.com/github/sue445/faker-precure.png)](https://codeclimate.com/github/sue445/faker-precure)
+[![Maintainability](https://qlty.sh/gh/sue445/projects/faker-precure/maintainability.svg)](https://qlty.sh/gh/sue445/projects/faker-precure)
 [![Coverage Status](https://coveralls.io/repos/sue445/faker-precure/badge.png)](https://coveralls.io/r/sue445/faker-precure)
 
 ## Installation
