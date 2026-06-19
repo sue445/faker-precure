@@ -12,3 +12,8 @@ if Gem::Version.create(RUBY_VERSION) >= Gem::Version.create("4.0.0")
   # rdoc is bundled gem since ruby 4.0
   gem "rdoc"
 end
+
+if Gem::Version.new(RUBY_VERSION) < Gem::Version.new("3.2.0")
+  # NOTE: i18n 1.15.0+ requires Ruby 3.2+
+  gem "i18n", "< 1.15.0"
+end
