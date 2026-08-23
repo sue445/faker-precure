@@ -1,9 +1,18 @@
 # Changelog
 ## master
-[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.7...master)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.8...master)
+
+## [0.0.8](https://github.com/sue445/faker-precure/releases/tag/v0.0.8)
+[full changelog](http://github.com/sue445/faker-precure/compare/v0.0.7...v0.0.8)
+
+* Migrate release_gem workflow to sue445/workflows (Also testing the gem release)
+  * https://github.com/sue445/faker-precure/pull/98
 
 ## [0.0.7](https://github.com/sue445/faker-precure/releases/tag/v0.0.7)
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.6...v0.0.7)
+
+* Release gem from GitHub Actions
+  * https://github.com/sue445/faker-precure/pull/58
 
 ## v0.0.6
 [full changelog](http://github.com/sue445/faker-precure/compare/v0.0.5...v0.0.6)
